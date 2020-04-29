@@ -1,0 +1,121 @@
+
+EMPLOYEE_ID FIRST_NAME           LAST_NAME                     SALARY                               
+----------- -------------------- ------------------------- ----------                               
+        105 David                Austin                          4800                               
+        151 David                Bernstein                       9500                               
+        165 David                Lee                             6800                               
+
+
+LOWER('SQL                                                                                          
+----------                                                                                          
+sql course                                                                                          
+
+
+LENGTH('SQLPLUS')                                                                                   
+-----------------                                                                                   
+                7                                                                                   
+
+
+INSTR('SQLPLUS','L',3,2)                                                                            
+------------------------                                                                            
+                       5                                                                            
+
+
+LPAD(24000                                                                                          
+----------                                                                                          
+*****24000                                                                                          
+
+
+RPAD(24000                                                                                          
+----------                                                                                          
+24000*****                                                                                          
+
+
+TRIM                                                                                                
+----                                                                                                
+oyal                                                                                                
+
+
+REPLACE('H                                                                                          
+----------                                                                                          
+Hello Home                                                                                          
+
+
+ROUND(45.936,2)                                                                                     
+---------------                                                                                     
+          45.94                                                                                     
+
+
+TRUNC(45.936,2)                                                                                     
+---------------                                                                                     
+          45.93                                                                                     
+
+
+  MOD(5,3)                                                                                          
+----------                                                                                          
+         2                                                                                          
+
+
+EMPLOYEE_ID FIRST_NAME           LAST_NAME                 DAYS_HIRED                               
+----------- -------------------- ------------------------- ----------                               
+        103 Alexander            Hunold                    5229.77829                               
+        104 Bruce                Ernst                     4726.77829                               
+        105 David                Austin                    5421.77829                               
+        106 Valli                Pataballa                 5196.77829                               
+        107 Diana                Lorentz                   4829.77829                               
+
+
+EMPLOYEE_ID FIRST_NAME           LAST_NAME                 MONTHS_HIRED                             
+----------- -------------------- ------------------------- ------------                             
+        103 Alexander            Hunold                             172                             
+        104 Bruce                Ernst                              155                             
+        105 David                Austin                             178                             
+        106 Valli                Pataballa                          171                             
+        107 Diana                Lorentz                            159                             
+
+
+ADD_MONTH                                                                                           
+---------                                                                                           
+11-JUL-96                                                                                           
+
+
+NEXT_DAY(                                                                                           
+---------                                                                                           
+08-SEP-95                                                                                           
+
+
+LAST_DAY(                                                                                           
+---------                                                                                           
+28-FEB-95                                                                                           
+
+
+ROUND(SYS                                                                                           
+---------                                                                                           
+01-MAY-20                                                                                           
+
+
+TRUNC(SYS                                                                                           
+---------                                                                                           
+01-JAN-20                                                                                           
+
+
+TO_CHAR(SYSDATE,'DAYDDMON,YYYY')                                                                    
+----------------------------------------------------------                                          
+TUESDAY   28 APR, 2020                                                                              
+
+
+FIRST_NAME           LAST_NAME                 TO_CHAR(SALARY,'L9,999,                              
+-------------------- ------------------------- -----------------------                              
+David                Austin                                  $4,800.00                              
+David                Bernstein                               $9,500.00                              
+David                Lee                                     $6,800.00                              
+
+
+EMPLOYEE_ID FIRST_NAME           LAST_NAME                 MONTHS_HIRED                             
+----------- -------------------- ------------------------- ------------                             
+        103 Alexander            Hunold                             172                             
+        104 Bruce                Ernst                              155                             
+        105 David                Austin                             178                             
+        106 Valli                Pataballa                          171                             
+        107 Diana                Lorentz                            159                             
+
