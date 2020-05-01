@@ -1,0 +1,313 @@
+
+Date                                                                                                                                                                                                    
+---------                                                                                                                                                                                               
+30-APR-20                                                                                                                                                                                               
+
+
+EMPLOYEE_ID LAST_NAME                 FIRST_NAME           COMMISSION_PCT                                                                                                                               
+----------- ------------------------- -------------------- --------------                                                                                                                               
+        145 Russell                   John                             .4                                                                                                                               
+        158 McEwen                    Allan                           .35                                                                                                                               
+        157 Sully                     Patrick                         .35                                                                                                                               
+        156 King                      Janette                         .35                                                                                                                               
+        160 Doran                     Louise                           .3                                                                                                                               
+        159 Smith                     Lindsey                          .3                                                                                                                               
+        146 Partners                  Karen                            .3                                                                                                                               
+        174 Abel                      Ellen                            .3                                                                                                                               
+        148 Cambrault                 Gerald                           .3                                                                                                                               
+        147 Errazuriz                 Alberto                          .3                                                                                                                               
+        150 Tucker                    Peter                            .3                                                                                                                               
+        152 Hall                      Peter                           .25                                                                                                                               
+        151 Bernstein                 David                           .25                                                                                                                               
+        162 Vishney                   Clara                           .25                                                                                                                               
+        175 Hutton                    Alyssa                          .25                                                                                                                               
+        168 Ozer                      Lisa                            .25                                                                                                                               
+        161 Sewall                    Sarath                          .25                                                                                                                               
+        170 Fox                       Tayler                           .2                                                                                                                               
+        154 Cambrault                 Nanette                          .2                                                                                                                               
+        153 Olsen                     Christopher                      .2                                                                                                                               
+        176 Taylor                    Jonathon                         .2                                                                                                                               
+        149 Zlotkey                   Eleni                            .2                                                                                                                               
+        169 Bloom                     Harrison                         .2                                                                                                                               
+        177 Livingston                Jack                             .2                                                                                                                               
+        163 Greene                    Danielle                        .15                                                                                                                               
+        178 Grant                     Kimberely                       .15                                                                                                                               
+        172 Bates                     Elizabeth                       .15                                                                                                                               
+        171 Smith                     William                         .15                                                                                                                               
+        155 Tuvault                   Oliver                          .15                                                                                                                               
+        164 Marvins                   Mattea                           .1                                                                                                                               
+        165 Lee                       David                            .1                                                                                                                               
+        166 Ande                      Sundar                           .1                                                                                                                               
+        179 Johnson                   Charles                          .1                                                                                                                               
+        173 Kumar                     Sundita                          .1                                                                                                                               
+        167 Banda                     Amit                             .1                                                                                                                               
+
+35 rows selected.
+
+
+EMPLOYEE_ID LAST_NAME                 FIRST_NAME               SALARY New_Sala                                                                                                                          
+----------- ------------------------- -------------------- ---------- --------                                                                                                                          
+        100 King                      Steven                    24000  $27,600                                                                                                                          
+        101 Kochhar                   Neena                     17000  $19,550                                                                                                                          
+        102 De Haan                   Lex                       17000  $19,550                                                                                                                          
+        108 Greenberg                 Nancy                     12008  $13,809                                                                                                                          
+        114 Raphaely                  Den                       11000  $12,650                                                                                                                          
+        145 Russell                   John                      14000  $16,100                                                                                                                          
+        146 Partners                  Karen                     13500  $15,525                                                                                                                          
+        147 Errazuriz                 Alberto                   12000  $13,800                                                                                                                          
+        148 Cambrault                 Gerald                    11000  $12,650                                                                                                                          
+        149 Zlotkey                   Eleni                     10500  $12,075                                                                                                                          
+        150 Tucker                    Peter                     10000  $11,500                                                                                                                          
+        156 King                      Janette                   10000  $11,500                                                                                                                          
+        162 Vishney                   Clara                     10500  $12,075                                                                                                                          
+        168 Ozer                      Lisa                      11500  $13,225                                                                                                                          
+        169 Bloom                     Harrison                  10000  $11,500                                                                                                                          
+        174 Abel                      Ellen                     11000  $12,650                                                                                                                          
+        201 Hartstein                 Michael                   13000  $14,950                                                                                                                          
+        204 Baer                      Hermann                   10000  $11,500                                                                                                                          
+        205 Higgins                   Shelley                   12008  $13,809                                                                                                                          
+
+19 rows selected.
+
+
+INITCAP(LAST_NAME)                                                                                                                                                                                      
+-------------------------                                                                                                                                                                               
+Abel                                                                                                                                                                                                    
+Ande                                                                                                                                                                                                    
+Atkinson                                                                                                                                                                                                
+Austin                                                                                                                                                                                                  
+Johnson                                                                                                                                                                                                 
+Jones                                                                                                                                                                                                   
+Mallin                                                                                                                                                                                                  
+Markle                                                                                                                                                                                                  
+Marlow                                                                                                                                                                                                  
+Marvins                                                                                                                                                                                                 
+Matos                                                                                                                                                                                                   
+Mavris                                                                                                                                                                                                  
+Mccain                                                                                                                                                                                                  
+Mcewen                                                                                                                                                                                                  
+Mikkilineni                                                                                                                                                                                             
+Mourgos                                                                                                                                                                                                 
+
+16 rows selected.
+
+
+LAST_NAME                 MONTHS_WORKED                                                                                                                                                                 
+------------------------- -------------                                                                                                                                                                 
+Higgins                            6538                                                                                                                                                                 
+Greenberg                          6467                                                                                                                                                                 
+Raphaely                           6355                                                                                                                                                                 
+Kaufling                           6210                                                                                                                                                                 
+Hartstein                          5918                                                                                                                                                                 
+Weiss                              5766                                                                                                                                                                 
+Russell                            5691                                                                                                                                                                 
+Partners                           5595                                                                                                                                                                 
+Errazuriz                          5531                                                                                                                                                                 
+Fripp                              5500                                                                                                                                                                 
+Vollman                            5317                                                                                                                                                                 
+Cambrault                          4582                                                                                                                                                                 
+Mourgos                            4550                                                                                                                                                                 
+Zlotkey                            4476                                                                                                                                                                 
+
+14 rows selected.
+
+
+LAST_NAME                 LPAD(SALARY,15,'$')                                                                                                                                                           
+------------------------- ------------------------------------------------------------                                                                                                                  
+King                      $$$$$$$$$$24000                                                                                                                                                               
+De Haan                   $$$$$$$$$$17000                                                                                                                                                               
+Kochhar                   $$$$$$$$$$17000                                                                                                                                                               
+Russell                   $$$$$$$$$$14000                                                                                                                                                               
+Partners                  $$$$$$$$$$13500                                                                                                                                                               
+Hartstein                 $$$$$$$$$$13000                                                                                                                                                               
+Greenberg                 $$$$$$$$$$12008                                                                                                                                                               
+Higgins                   $$$$$$$$$$12008                                                                                                                                                               
+Errazuriz                 $$$$$$$$$$12000                                                                                                                                                               
+Ozer                      $$$$$$$$$$11500                                                                                                                                                               
+Raphaely                  $$$$$$$$$$11000                                                                                                                                                               
+Abel                      $$$$$$$$$$11000                                                                                                                                                               
+Cambrault                 $$$$$$$$$$11000                                                                                                                                                               
+Zlotkey                   $$$$$$$$$$10500                                                                                                                                                               
+Vishney                   $$$$$$$$$$10500                                                                                                                                                               
+Bloom                     $$$$$$$$$$10000                                                                                                                                                               
+King                      $$$$$$$$$$10000                                                                                                                                                               
+Tucker                    $$$$$$$$$$10000                                                                                                                                                               
+Baer                      $$$$$$$$$$10000                                                                                                                                                               
+Fox                       $$$$$$$$$$$9600                                                                                                                                                               
+Greene                    $$$$$$$$$$$9500                                                                                                                                                               
+Sully                     $$$$$$$$$$$9500                                                                                                                                                               
+Bernstein                 $$$$$$$$$$$9500                                                                                                                                                               
+Hunold                    $$$$$$$$$$$9000                                                                                                                                                               
+Faviet                    $$$$$$$$$$$9000                                                                                                                                                               
+Hall                      $$$$$$$$$$$9000                                                                                                                                                               
+McEwen                    $$$$$$$$$$$9000                                                                                                                                                               
+Hutton                    $$$$$$$$$$$8800                                                                                                                                                               
+Taylor                    $$$$$$$$$$$8600                                                                                                                                                               
+Livingston                $$$$$$$$$$$8400                                                                                                                                                               
+Gietz                     $$$$$$$$$$$8300                                                                                                                                                               
+Fripp                     $$$$$$$$$$$8200                                                                                                                                                               
+Chen                      $$$$$$$$$$$8200                                                                                                                                                               
+Olsen                     $$$$$$$$$$$8000                                                                                                                                                               
+Weiss                     $$$$$$$$$$$8000                                                                                                                                                               
+Smith                     $$$$$$$$$$$8000                                                                                                                                                               
+Kaufling                  $$$$$$$$$$$7900                                                                                                                                                               
+Urman                     $$$$$$$$$$$7800                                                                                                                                                               
+Sciarra                   $$$$$$$$$$$7700                                                                                                                                                               
+Doran                     $$$$$$$$$$$7500                                                                                                                                                               
+Cambrault                 $$$$$$$$$$$7500                                                                                                                                                               
+Smith                     $$$$$$$$$$$7400                                                                                                                                                               
+Bates                     $$$$$$$$$$$7300                                                                                                                                                               
+Marvins                   $$$$$$$$$$$7200                                                                                                                                                               
+Sewall                    $$$$$$$$$$$7000                                                                                                                                                               
+Grant                     $$$$$$$$$$$7000                                                                                                                                                               
+Tuvault                   $$$$$$$$$$$7000                                                                                                                                                               
+Popp                      $$$$$$$$$$$6900                                                                                                                                                               
+Lee                       $$$$$$$$$$$6800                                                                                                                                                               
+Vollman                   $$$$$$$$$$$6500                                                                                                                                                               
+Mavris                    $$$$$$$$$$$6500                                                                                                                                                               
+Ande                      $$$$$$$$$$$6400                                                                                                                                                               
+Banda                     $$$$$$$$$$$6200                                                                                                                                                               
+Johnson                   $$$$$$$$$$$6200                                                                                                                                                               
+Kumar                     $$$$$$$$$$$6100                                                                                                                                                               
+Fay                       $$$$$$$$$$$6000                                                                                                                                                               
+Ernst                     $$$$$$$$$$$6000                                                                                                                                                               
+Mourgos                   $$$$$$$$$$$5800                                                                                                                                                               
+Pataballa                 $$$$$$$$$$$4800                                                                                                                                                               
+Austin                    $$$$$$$$$$$4800                                                                                                                                                               
+Whalen                    $$$$$$$$$$$4400                                                                                                                                                               
+Lorentz                   $$$$$$$$$$$4200                                                                                                                                                               
+Sarchand                  $$$$$$$$$$$4200                                                                                                                                                               
+Bull                      $$$$$$$$$$$4100                                                                                                                                                               
+Bell                      $$$$$$$$$$$4000                                                                                                                                                               
+Everett                   $$$$$$$$$$$3900                                                                                                                                                               
+Chung                     $$$$$$$$$$$3800                                                                                                                                                               
+Ladwig                    $$$$$$$$$$$3600                                                                                                                                                               
+Dilly                     $$$$$$$$$$$3600                                                                                                                                                               
+Rajs                      $$$$$$$$$$$3500                                                                                                                                                               
+Dellinger                 $$$$$$$$$$$3400                                                                                                                                                               
+Bissot                    $$$$$$$$$$$3300                                                                                                                                                               
+Mallin                    $$$$$$$$$$$3300                                                                                                                                                               
+Taylor                    $$$$$$$$$$$3200                                                                                                                                                               
+Nayer                     $$$$$$$$$$$3200                                                                                                                                                               
+Stiles                    $$$$$$$$$$$3200                                                                                                                                                               
+McCain                    $$$$$$$$$$$3200                                                                                                                                                               
+Walsh                     $$$$$$$$$$$3100                                                                                                                                                               
+Fleaur                    $$$$$$$$$$$3100                                                                                                                                                               
+Khoo                      $$$$$$$$$$$3100                                                                                                                                                               
+Davies                    $$$$$$$$$$$3100                                                                                                                                                               
+Feeney                    $$$$$$$$$$$3000                                                                                                                                                               
+Cabrio                    $$$$$$$$$$$3000                                                                                                                                                               
+
+83 rows selected.
+
+
+LAST_NAME                 FIRST_NAME           NVL2(COMMISSIO                                                                                                                                           
+------------------------- -------------------- --------------                                                                                                                                           
+Abel                      Ellen                     $3,300.00                                                                                                                                           
+Ande                      Sundar                      $640.00                                                                                                                                           
+Banda                     Amit                        $620.00                                                                                                                                           
+Bates                     Elizabeth                 $1,095.00                                                                                                                                           
+Bernstein                 David                     $2,375.00                                                                                                                                           
+Bloom                     Harrison                  $2,000.00                                                                                                                                           
+Cambrault                 Gerald                    $3,300.00                                                                                                                                           
+Cambrault                 Nanette                   $1,500.00                                                                                                                                           
+De Haan                   Lex                  NO BONUS                                                                                                                                                 
+Doran                     Louise                    $2,250.00                                                                                                                                           
+Errazuriz                 Alberto                   $3,600.00                                                                                                                                           
+Fox                       Tayler                    $1,920.00                                                                                                                                           
+Greene                    Danielle                  $1,425.00                                                                                                                                           
+Hall                      Peter                     $2,250.00                                                                                                                                           
+Hutton                    Alyssa                    $2,200.00                                                                                                                                           
+Johnson                   Charles                     $620.00                                                                                                                                           
+King                      Janette                   $3,500.00                                                                                                                                           
+King                      Steven               NO BONUS                                                                                                                                                 
+Kochhar                   Neena                NO BONUS                                                                                                                                                 
+Kumar                     Sundita                     $610.00                                                                                                                                           
+Lee                       David                       $680.00                                                                                                                                           
+Livingston                Jack                      $1,680.00                                                                                                                                           
+Marvins                   Mattea                      $720.00                                                                                                                                           
+McEwen                    Allan                     $3,150.00                                                                                                                                           
+Olsen                     Christopher               $1,600.00                                                                                                                                           
+Ozer                      Lisa                      $2,875.00                                                                                                                                           
+Partners                  Karen                     $4,050.00                                                                                                                                           
+Russell                   John                      $5,600.00                                                                                                                                           
+Sewall                    Sarath                    $1,750.00                                                                                                                                           
+Smith                     Lindsey                   $2,400.00                                                                                                                                           
+Smith                     William                   $1,110.00                                                                                                                                           
+Sully                     Patrick                   $3,325.00                                                                                                                                           
+Taylor                    Jonathon                  $1,720.00                                                                                                                                           
+Tucker                    Peter                     $3,000.00                                                                                                                                           
+Tuvault                   Oliver                    $1,050.00                                                                                                                                           
+Vishney                   Clara                     $2,625.00                                                                                                                                           
+Zlotkey                   Eleni                     $2,100.00                                                                                                                                           
+
+37 rows selected.
+
+
+LAST_NAME                 FIRST_NAME           JOB_ID     GR                                                                                                                                            
+------------------------- -------------------- ---------- --                                                                                                                                            
+King                      Steven               AD_PRES    A                                                                                                                                             
+Tucker                    Peter                SA_REP     D                                                                                                                                             
+Abel                      Ellen                SA_REP     D                                                                                                                                             
+Bloom                     Harrison             SA_REP     D                                                                                                                                             
+Ozer                      Lisa                 SA_REP     D                                                                                                                                             
+Vishney                   Clara                SA_REP     D                                                                                                                                             
+King                      Janette              SA_REP     D                                                                                                                                             
+Cambrault                 Gerald               SA_MAN     NA                                                                                                                                            
+Zlotkey                   Eleni                SA_MAN     NA                                                                                                                                            
+Hartstein                 Michael              MK_MAN     NA                                                                                                                                            
+Baer                      Hermann              PR_REP     NA                                                                                                                                            
+Errazuriz                 Alberto              SA_MAN     NA                                                                                                                                            
+Partners                  Karen                SA_MAN     NA                                                                                                                                            
+Russell                   John                 SA_MAN     NA                                                                                                                                            
+Raphaely                  Den                  PU_MAN     NA                                                                                                                                            
+Greenberg                 Nancy                FI_MGR     NA                                                                                                                                            
+De Haan                   Lex                  AD_VP      NA                                                                                                                                            
+Higgins                   Shelley              AC_MGR     NA                                                                                                                                            
+Kochhar                   Neena                AD_VP      NA                                                                                                                                            
+
+19 rows selected.
+
+
+LAST_NAME                 FIRST_NAME           JOB_ID     BONUS                                                                                                                                         
+------------------------- -------------------- ---------- --------------                                                                                                                                
+Abel                      Ellen                SA_REP          $3,300.00                                                                                                                                
+Ande                      Sundar               SA_REP            $640.00                                                                                                                                
+Banda                     Amit                 SA_REP            $620.00                                                                                                                                
+Bates                     Elizabeth            SA_REP          $1,095.00                                                                                                                                
+Bernstein                 David                SA_REP          $2,375.00                                                                                                                                
+Bloom                     Harrison             SA_REP          $2,000.00                                                                                                                                
+Cambrault                 Gerald               SA_MAN          $3,300.00                                                                                                                                
+Cambrault                 Nanette              SA_REP          $1,500.00                                                                                                                                
+De Haan                   Lex                  AD_VP      NO BONUS                                                                                                                                      
+Doran                     Louise               SA_REP          $2,250.00                                                                                                                                
+Errazuriz                 Alberto              SA_MAN          $3,600.00                                                                                                                                
+Fox                       Tayler               SA_REP          $1,920.00                                                                                                                                
+Greene                    Danielle             SA_REP          $1,425.00                                                                                                                                
+Hall                      Peter                SA_REP          $2,250.00                                                                                                                                
+Hutton                    Alyssa               SA_REP          $2,200.00                                                                                                                                
+Johnson                   Charles              SA_REP            $620.00                                                                                                                                
+King                      Janette              SA_REP          $3,500.00                                                                                                                                
+King                      Steven               AD_PRES    NO BONUS                                                                                                                                      
+Kochhar                   Neena                AD_VP      NO BONUS                                                                                                                                      
+Kumar                     Sundita              SA_REP            $610.00                                                                                                                                
+Lee                       David                SA_REP            $680.00                                                                                                                                
+Livingston                Jack                 SA_REP          $1,680.00                                                                                                                                
+Marvins                   Mattea               SA_REP            $720.00                                                                                                                                
+McEwen                    Allan                SA_REP          $3,150.00                                                                                                                                
+Olsen                     Christopher          SA_REP          $1,600.00                                                                                                                                
+Ozer                      Lisa                 SA_REP          $2,875.00                                                                                                                                
+Partners                  Karen                SA_MAN          $4,050.00                                                                                                                                
+Russell                   John                 SA_MAN          $5,600.00                                                                                                                                
+Sewall                    Sarath               SA_REP          $1,750.00                                                                                                                                
+Smith                     Lindsey              SA_REP          $2,400.00                                                                                                                                
+Smith                     William              SA_REP          $1,110.00                                                                                                                                
+Sully                     Patrick              SA_REP          $3,325.00                                                                                                                                
+Taylor                    Jonathon             SA_REP          $1,720.00                                                                                                                                
+Tucker                    Peter                SA_REP          $3,000.00                                                                                                                                
+Tuvault                   Oliver               SA_REP          $1,050.00                                                                                                                                
+Vishney                   Clara                SA_REP          $2,625.00                                                                                                                                
+Zlotkey                   Eleni                SA_MAN          $2,100.00                                                                                                                                
+
+37 rows selected.
+
