@@ -1,0 +1,483 @@
+
+EMPLOYEE_ID LAST_NAME                 HIRE_DATE                                                     
+----------- ------------------------- ---------                                                     
+        145 Russell                   01-OCT-04                                                     
+        146 Partners                  05-JAN-05                                                     
+        147 Errazuriz                 10-MAR-05                                                     
+        148 Cambrault                 15-OCT-07                                                     
+        149 Zlotkey                   29-JAN-08                                                     
+        150 Tucker                    30-JAN-05                                                     
+        151 Bernstein                 24-MAR-05                                                     
+        152 Hall                      20-AUG-05                                                     
+        153 Olsen                     30-MAR-06                                                     
+        154 Cambrault                 09-DEC-06                                                     
+        155 Tuvault                   23-NOV-07                                                     
+        156 King                      30-JAN-04                                                     
+        157 Sully                     04-MAR-04                                                     
+        158 McEwen                    01-AUG-04                                                     
+        159 Smith                     10-MAR-05                                                     
+        160 Doran                     15-DEC-05                                                     
+        161 Sewall                    03-NOV-06                                                     
+        162 Vishney                   11-NOV-05                                                     
+        163 Greene                    19-MAR-07                                                     
+        164 Marvins                   24-JAN-08                                                     
+        165 Lee                       23-FEB-08                                                     
+        166 Ande                      24-MAR-08                                                     
+        167 Banda                     21-APR-08                                                     
+        168 Ozer                      11-MAR-05                                                     
+        169 Bloom                     23-MAR-06                                                     
+        170 Fox                       24-JAN-06                                                     
+        171 Smith                     23-FEB-07                                                     
+        172 Bates                     24-MAR-07                                                     
+        173 Kumar                     21-APR-08                                                     
+        174 Abel                      11-MAY-04                                                     
+        175 Hutton                    19-MAR-05                                                     
+        176 Taylor                    24-MAR-06                                                     
+        177 Livingston                23-APR-06                                                     
+        179 Johnson                   04-JAN-08                                                     
+
+34 rows selected.
+
+
+EMPLOYEE_ID LAST_NAME                                                                               
+----------- -------------------------                                                               
+        132 Olson                                                                                   
+        128 Markle                                                                                  
+        136 Philtanker                                                                              
+        127 Landry                                                                                  
+        135 Gee                                                                                     
+        119 Colmenares                                                                              
+        131 Marlow                                                                                  
+        140 Patel                                                                                   
+        144 Vargas                                                                                  
+        182 Sullivan                                                                                
+        191 Perkins                                                                                 
+        118 Himuro                                                                                  
+        143 Matos                                                                                   
+        198 OConnell                                                                                
+        199 Grant                                                                                   
+        126 Mikkilineni                                                                             
+        139 Seo                                                                                     
+        117 Tobias                                                                                  
+        130 Atkinson                                                                                
+        183 Geoni                                                                                   
+        195 Jones                                                                                   
+        116 Baida                                                                                   
+        134 Rogers                                                                                  
+        190 Gates                                                                                   
+        187 Cabrio                                                                                  
+        197 Feeney                                                                                  
+        115 Khoo                                                                                    
+        142 Davies                                                                                  
+        181 Fleaur                                                                                  
+        196 Walsh                                                                                   
+        125 Nayer                                                                                   
+        138 Stiles                                                                                  
+        180 Taylor                                                                                  
+        194 McCain                                                                                  
+        129 Bissot                                                                                  
+        133 Mallin                                                                                  
+        186 Dellinger                                                                               
+        141 Rajs                                                                                    
+        137 Ladwig                                                                                  
+        189 Dilly                                                                                   
+        188 Chung                                                                                   
+        193 Everett                                                                                 
+        192 Bell                                                                                    
+        185 Bull                                                                                    
+        107 Lorentz                                                                                 
+        184 Sarchand                                                                                
+        200 Whalen                                                                                  
+        105 Austin                                                                                  
+        106 Pataballa                                                                               
+        124 Mourgos                                                                                 
+        104 Ernst                                                                                   
+        202 Fay                                                                                     
+        173 Kumar                                                                                   
+        167 Banda                                                                                   
+        179 Johnson                                                                                 
+        166 Ande                                                                                    
+        123 Vollman                                                                                 
+        203 Mavris                                                                                  
+        165 Lee                                                                                     
+        113 Popp                                                                                    
+        155 Tuvault                                                                                 
+        161 Sewall                                                                                  
+        178 Grant                                                                                   
+        164 Marvins                                                                                 
+        172 Bates                                                                                   
+        171 Smith                                                                                   
+        154 Cambrault                                                                               
+        160 Doran                                                                                   
+        111 Sciarra                                                                                 
+        112 Urman                                                                                   
+        122 Kaufling                                                                                
+        120 Weiss                                                                                   
+        153 Olsen                                                                                   
+        159 Smith                                                                                   
+        110 Chen                                                                                    
+        121 Fripp                                                                                   
+        206 Gietz                                                                                   
+        177 Livingston                                                                              
+        176 Taylor                                                                                  
+        175 Hutton                                                                                  
+        103 Hunold                                                                                  
+        109 Faviet                                                                                  
+        152 Hall                                                                                    
+        158 McEwen                                                                                  
+        151 Bernstein                                                                               
+        157 Sully                                                                                   
+        163 Greene                                                                                  
+        170 Fox                                                                                     
+        150 Tucker                                                                                  
+        156 King                                                                                    
+        169 Bloom                                                                                   
+        204 Baer                                                                                    
+        149 Zlotkey                                                                                 
+        162 Vishney                                                                                 
+        114 Raphaely                                                                                
+        148 Cambrault                                                                               
+        174 Abel                                                                                    
+
+EMPLOYEE_ID LAST_NAME                                                                               
+----------- -------------------------                                                               
+        168 Ozer                                                                                    
+        147 Errazuriz                                                                               
+        108 Greenberg                                                                               
+        205 Higgins                                                                                 
+        201 Hartstein                                                                               
+        146 Partners                                                                                
+        145 Russell                                                                                 
+        101 Kochhar                                                                                 
+        102 De Haan                                                                                 
+        100 King                                                                                    
+
+107 rows selected.
+
+
+EMPLOYEE_ID LAST_NAME                                                                               
+----------- -------------------------                                                               
+        100 King                                                                                    
+        101 Kochhar                                                                                 
+        102 De Haan                                                                                 
+        108 Greenberg                                                                               
+        109 Faviet                                                                                  
+        110 Chen                                                                                    
+        111 Sciarra                                                                                 
+        112 Urman                                                                                   
+        113 Popp                                                                                    
+        114 Raphaely                                                                                
+        115 Khoo                                                                                    
+        116 Baida                                                                                   
+        117 Tobias                                                                                  
+        118 Himuro                                                                                  
+        119 Colmenares                                                                              
+        200 Whalen                                                                                  
+        205 Higgins                                                                                 
+        206 Gietz                                                                                   
+
+18 rows selected.
+
+
+EMPLOYEE_ID LAST_NAME                 JOB_ID                                                        
+----------- ------------------------- ----------                                                    
+        100 King                      AD_PRES                                                       
+        101 Kochhar                   AD_VP                                                         
+        102 De Haan                   AD_VP                                                         
+        103 Hunold                    IT_PROG                                                       
+        104 Ernst                     IT_PROG                                                       
+        105 Austin                    IT_PROG                                                       
+        106 Pataballa                 IT_PROG                                                       
+        107 Lorentz                   IT_PROG                                                       
+        108 Greenberg                 FI_MGR                                                        
+        109 Faviet                    FI_ACCOUNT                                                    
+        110 Chen                      FI_ACCOUNT                                                    
+        111 Sciarra                   FI_ACCOUNT                                                    
+        112 Urman                     FI_ACCOUNT                                                    
+        113 Popp                      FI_ACCOUNT                                                    
+        114 Raphaely                  PU_MAN                                                        
+        115 Khoo                      PU_CLERK                                                      
+        116 Baida                     PU_CLERK                                                      
+        117 Tobias                    PU_CLERK                                                      
+        118 Himuro                    PU_CLERK                                                      
+        119 Colmenares                PU_CLERK                                                      
+        120 Weiss                     ST_MAN                                                        
+        121 Fripp                     ST_MAN                                                        
+        122 Kaufling                  ST_MAN                                                        
+        123 Vollman                   ST_MAN                                                        
+        124 Mourgos                   ST_MAN                                                        
+        125 Nayer                     ST_CLERK                                                      
+        126 Mikkilineni               ST_CLERK                                                      
+        127 Landry                    ST_CLERK                                                      
+        128 Markle                    ST_CLERK                                                      
+        129 Bissot                    ST_CLERK                                                      
+        130 Atkinson                  ST_CLERK                                                      
+        131 Marlow                    ST_CLERK                                                      
+        132 Olson                     ST_CLERK                                                      
+        133 Mallin                    ST_CLERK                                                      
+        134 Rogers                    ST_CLERK                                                      
+        135 Gee                       ST_CLERK                                                      
+        136 Philtanker                ST_CLERK                                                      
+        137 Ladwig                    ST_CLERK                                                      
+        138 Stiles                    ST_CLERK                                                      
+        139 Seo                       ST_CLERK                                                      
+        140 Patel                     ST_CLERK                                                      
+        141 Rajs                      ST_CLERK                                                      
+        142 Davies                    ST_CLERK                                                      
+        143 Matos                     ST_CLERK                                                      
+        144 Vargas                    ST_CLERK                                                      
+        145 Russell                   SA_MAN                                                        
+        146 Partners                  SA_MAN                                                        
+        147 Errazuriz                 SA_MAN                                                        
+        148 Cambrault                 SA_MAN                                                        
+        149 Zlotkey                   SA_MAN                                                        
+        150 Tucker                    SA_REP                                                        
+        151 Bernstein                 SA_REP                                                        
+        152 Hall                      SA_REP                                                        
+        153 Olsen                     SA_REP                                                        
+        154 Cambrault                 SA_REP                                                        
+        155 Tuvault                   SA_REP                                                        
+        156 King                      SA_REP                                                        
+        157 Sully                     SA_REP                                                        
+        158 McEwen                    SA_REP                                                        
+        159 Smith                     SA_REP                                                        
+        160 Doran                     SA_REP                                                        
+        161 Sewall                    SA_REP                                                        
+        162 Vishney                   SA_REP                                                        
+        163 Greene                    SA_REP                                                        
+        164 Marvins                   SA_REP                                                        
+        165 Lee                       SA_REP                                                        
+        166 Ande                      SA_REP                                                        
+        167 Banda                     SA_REP                                                        
+        168 Ozer                      SA_REP                                                        
+        169 Bloom                     SA_REP                                                        
+        170 Fox                       SA_REP                                                        
+        171 Smith                     SA_REP                                                        
+        172 Bates                     SA_REP                                                        
+        173 Kumar                     SA_REP                                                        
+        174 Abel                      SA_REP                                                        
+        175 Hutton                    SA_REP                                                        
+        176 Taylor                    SA_REP                                                        
+        177 Livingston                SA_REP                                                        
+        178 Grant                     SA_REP                                                        
+        179 Johnson                   SA_REP                                                        
+        180 Taylor                    SH_CLERK                                                      
+        181 Fleaur                    SH_CLERK                                                      
+        182 Sullivan                  SH_CLERK                                                      
+        183 Geoni                     SH_CLERK                                                      
+        184 Sarchand                  SH_CLERK                                                      
+        185 Bull                      SH_CLERK                                                      
+        186 Dellinger                 SH_CLERK                                                      
+        187 Cabrio                    SH_CLERK                                                      
+        188 Chung                     SH_CLERK                                                      
+        189 Dilly                     SH_CLERK                                                      
+        190 Gates                     SH_CLERK                                                      
+        191 Perkins                   SH_CLERK                                                      
+        192 Bell                      SH_CLERK                                                      
+        193 Everett                   SH_CLERK                                                      
+        194 McCain                    SH_CLERK                                                      
+        195 Jones                     SH_CLERK                                                      
+        196 Walsh                     SH_CLERK                                                      
+
+EMPLOYEE_ID LAST_NAME                 JOB_ID                                                        
+----------- ------------------------- ----------                                                    
+        197 Feeney                    SH_CLERK                                                      
+        198 OConnell                  SH_CLERK                                                      
+        199 Grant                     SH_CLERK                                                      
+        200 Whalen                    AD_ASST                                                       
+        201 Hartstein                 MK_MAN                                                        
+        202 Fay                       MK_REP                                                        
+        203 Mavris                    HR_REP                                                        
+        204 Baer                      PR_REP                                                        
+        205 Higgins                   AC_MGR                                                        
+        206 Gietz                     AC_ACCOUNT                                                    
+
+107 rows selected.
+
+
+EMPLOYEE_ID LAST_NAME                 JOB_ID                                                        
+----------- ------------------------- ----------                                                    
+        100 King                      AD_PRES                                                       
+        101 Kochhar                   AD_VP                                                         
+        102 De Haan                   AD_VP                                                         
+        103 Hunold                    IT_PROG                                                       
+        104 Ernst                     IT_PROG                                                       
+        105 Austin                    IT_PROG                                                       
+        106 Pataballa                 IT_PROG                                                       
+        107 Lorentz                   IT_PROG                                                       
+        108 Greenberg                 FI_MGR                                                        
+        109 Faviet                    FI_ACCOUNT                                                    
+        110 Chen                      FI_ACCOUNT                                                    
+        111 Sciarra                   FI_ACCOUNT                                                    
+        112 Urman                     FI_ACCOUNT                                                    
+        113 Popp                      FI_ACCOUNT                                                    
+        114 Raphaely                  PU_MAN                                                        
+        115 Khoo                      PU_CLERK                                                      
+        116 Baida                     PU_CLERK                                                      
+        117 Tobias                    PU_CLERK                                                      
+        118 Himuro                    PU_CLERK                                                      
+        119 Colmenares                PU_CLERK                                                      
+        120 Weiss                     ST_MAN                                                        
+        121 Fripp                     ST_MAN                                                        
+        122 Kaufling                  ST_MAN                                                        
+        123 Vollman                   ST_MAN                                                        
+        124 Mourgos                   ST_MAN                                                        
+        125 Nayer                     ST_CLERK                                                      
+        126 Mikkilineni               ST_CLERK                                                      
+        127 Landry                    ST_CLERK                                                      
+        128 Markle                    ST_CLERK                                                      
+        129 Bissot                    ST_CLERK                                                      
+        130 Atkinson                  ST_CLERK                                                      
+        131 Marlow                    ST_CLERK                                                      
+        132 Olson                     ST_CLERK                                                      
+        133 Mallin                    ST_CLERK                                                      
+        134 Rogers                    ST_CLERK                                                      
+        135 Gee                       ST_CLERK                                                      
+        136 Philtanker                ST_CLERK                                                      
+        137 Ladwig                    ST_CLERK                                                      
+        138 Stiles                    ST_CLERK                                                      
+        139 Seo                       ST_CLERK                                                      
+        140 Patel                     ST_CLERK                                                      
+        141 Rajs                      ST_CLERK                                                      
+        142 Davies                    ST_CLERK                                                      
+        143 Matos                     ST_CLERK                                                      
+        144 Vargas                    ST_CLERK                                                      
+        145 Russell                   SA_MAN                                                        
+        146 Partners                  SA_MAN                                                        
+        147 Errazuriz                 SA_MAN                                                        
+        148 Cambrault                 SA_MAN                                                        
+        149 Zlotkey                   SA_MAN                                                        
+        150 Tucker                    SA_REP                                                        
+        151 Bernstein                 SA_REP                                                        
+        152 Hall                      SA_REP                                                        
+        153 Olsen                     SA_REP                                                        
+        154 Cambrault                 SA_REP                                                        
+        155 Tuvault                   SA_REP                                                        
+        156 King                      SA_REP                                                        
+        157 Sully                     SA_REP                                                        
+        158 McEwen                    SA_REP                                                        
+        159 Smith                     SA_REP                                                        
+        160 Doran                     SA_REP                                                        
+        161 Sewall                    SA_REP                                                        
+        162 Vishney                   SA_REP                                                        
+        163 Greene                    SA_REP                                                        
+        164 Marvins                   SA_REP                                                        
+        165 Lee                       SA_REP                                                        
+        166 Ande                      SA_REP                                                        
+        167 Banda                     SA_REP                                                        
+        168 Ozer                      SA_REP                                                        
+        169 Bloom                     SA_REP                                                        
+        170 Fox                       SA_REP                                                        
+        171 Smith                     SA_REP                                                        
+        172 Bates                     SA_REP                                                        
+        173 Kumar                     SA_REP                                                        
+        174 Abel                      SA_REP                                                        
+        175 Hutton                    SA_REP                                                        
+        176 Taylor                    SA_REP                                                        
+        177 Livingston                SA_REP                                                        
+        178 Grant                     SA_REP                                                        
+        179 Johnson                   SA_REP                                                        
+        180 Taylor                    SH_CLERK                                                      
+        181 Fleaur                    SH_CLERK                                                      
+        182 Sullivan                  SH_CLERK                                                      
+        183 Geoni                     SH_CLERK                                                      
+        184 Sarchand                  SH_CLERK                                                      
+        185 Bull                      SH_CLERK                                                      
+        186 Dellinger                 SH_CLERK                                                      
+        187 Cabrio                    SH_CLERK                                                      
+        188 Chung                     SH_CLERK                                                      
+        189 Dilly                     SH_CLERK                                                      
+        190 Gates                     SH_CLERK                                                      
+        191 Perkins                   SH_CLERK                                                      
+        192 Bell                      SH_CLERK                                                      
+        193 Everett                   SH_CLERK                                                      
+        194 McCain                    SH_CLERK                                                      
+        195 Jones                     SH_CLERK                                                      
+        196 Walsh                     SH_CLERK                                                      
+
+EMPLOYEE_ID LAST_NAME                 JOB_ID                                                        
+----------- ------------------------- ----------                                                    
+        197 Feeney                    SH_CLERK                                                      
+        198 OConnell                  SH_CLERK                                                      
+        199 Grant                     SH_CLERK                                                      
+        200 Whalen                    AD_ASST                                                       
+        201 Hartstein                 MK_MAN                                                        
+        202 Fay                       MK_REP                                                        
+        203 Mavris                    HR_REP                                                        
+        204 Baer                      PR_REP                                                        
+        205 Higgins                   AC_MGR                                                        
+        206 Gietz                     AC_ACCOUNT                                                    
+
+107 rows selected.
+
+
+DEPARTMENT_ID COUNT(EMPLOYEE_ID) AVG(SALARY) MIN(SALARY) MAX(SALARY) SUM(SALARY)                    
+------------- ------------------ ----------- ----------- ----------- -----------                    
+           50                 45  3475.55556        2100        8200      156400                    
+           30                  6        4150        2500       11000       24900                    
+           10                  1        4400        4400        4400        4400                    
+           60                  5        5760        4200        9000       28800                    
+           40                  1        6500        6500        6500        6500                    
+          100                  6  8601.33333        6900       12008       51608                    
+           80                 34  8955.88235        6100       14000      304500                    
+           20                  2        9500        6000       13000       19000                    
+           70                  1       10000       10000       10000       10000                    
+          110                  2       10154        8300       12008       20308                    
+           90                  3  19333.3333       17000       24000       58000                    
+
+11 rows selected.
+
+
+DEPARTMENT_ID COUNT(EMPLOYEE_ID) AVG(SALARY) MIN(SALARY) MAX(SALARY) SUM(SALARY)                    
+------------- ------------------ ----------- ----------- ----------- -----------                    
+           60                  5        5760        4200        9000       28800                    
+           70                  1       10000       10000       10000       10000                    
+           80                 34  8955.88235        6100       14000      304500                    
+           90                  3  19333.3333       17000       24000       58000                    
+
+
+JOB_ID     COUNT(EMPLOYEE_ID) AVG(SALARY) MIN(SALARY) MAX(SALARY)                                   
+---------- ------------------ ----------- ----------- -----------                                   
+AC_ACCOUNT                  1        8300        8300        8300                                   
+AC_MGR                      1       12008       12008       12008                                   
+AD_ASST                     1        4400        4400        4400                                   
+AD_PRES                     1       24000       24000       24000                                   
+AD_VP                       2       17000       17000       17000                                   
+FI_ACCOUNT                  5        7920        6900        9000                                   
+FI_MGR                      1       12008       12008       12008                                   
+HR_REP                      1        6500        6500        6500                                   
+IT_PROG                     5        5760        4200        9000                                   
+MK_MAN                      1       13000       13000       13000                                   
+MK_REP                      1        6000        6000        6000                                   
+PR_REP                      1       10000       10000       10000                                   
+PU_CLERK                    5        2780        2500        3100                                   
+PU_MAN                      1       11000       11000       11000                                   
+SA_MAN                      5       12200       10500       14000                                   
+SA_REP                     30        8350        6100       11500                                   
+SH_CLERK                   20        3215        2500        4200                                   
+ST_CLERK                   20        2785        2100        3600                                   
+ST_MAN                      5        7280        5800        8200                                   
+
+19 rows selected.
+
+
+JOB_ID     COUNT(EMPLOYEE_ID) AVG(SALARY) MIN(SALARY) MAX(SALARY)                                   
+---------- ------------------ ----------- ----------- -----------                                   
+AC_ACCOUNT                  1        8300        8300        8300                                   
+AC_MGR                      1       12008       12008       12008                                   
+AD_PRES                     1       24000       24000       24000                                   
+AD_VP                       2       17000       17000       17000                                   
+FI_ACCOUNT                  5        7920        6900        9000                                   
+FI_MGR                      1       12008       12008       12008                                   
+HR_REP                      1        6500        6500        6500                                   
+IT_PROG                     5        5760        4200        9000                                   
+MK_MAN                      1       13000       13000       13000                                   
+MK_REP                      1        6000        6000        6000                                   
+PR_REP                      1       10000       10000       10000                                   
+PU_MAN                      1       11000       11000       11000                                   
+SA_MAN                      5       12200       10500       14000                                   
+SA_REP                     30        8350        6100       11500                                   
+ST_MAN                      5        7280        5800        8200                                   
+
+15 rows selected.
+
